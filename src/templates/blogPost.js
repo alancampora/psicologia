@@ -1,15 +1,17 @@
 import React from 'react';
 import { graphql } from 'gatsby';
-import { StyledWrapper } from './styled';
+import { StyledWrapper, StyledBody } from './styled';
 
 export default ({ data }) => {
 	const post = data.markdownRemark;
 	const htmlContent = { __html: post.html };
 
 	return (
-		<StyledWrapper>
-			<div dangerouslySetInnerHTML={htmlContent} />
-		</StyledWrapper>
+		<StyledBody>
+			<StyledWrapper>
+				<div dangerouslySetInnerHTML={htmlContent} />
+			</StyledWrapper>
+		</StyledBody>
 	);
 };
 

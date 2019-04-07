@@ -1,9 +1,9 @@
 import styled from 'styled-components';
 
 export const StyledWrapper = styled.div`
-	background-color: beige;
+	background-color: white;
 	padding: 1rem;
-	margin: 0 15rem;
+	margin: 0 10rem;
 
 	h1,
 	h2,
@@ -16,4 +16,8 @@ export const StyledWrapper = styled.div`
 		margin: 1rem 5%;
 		font-size: 1.2rem;
 	}
+`;
+
+export const StyledBody = styled.div`
+	background-color: #ff5b5b;
 `;
