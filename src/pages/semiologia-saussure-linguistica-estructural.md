@@ -17,4 +17,6 @@ El objeto de la lingüística debe ser definido consistentemente con su demarcac
 
 El objeto no puede ser el lenguaje. Existe una objeción epistemológica para ello: en cualquier hecho de lenguaje conviven dos caras que no pueden ser resultas consistentemente desde un mismo punto de vista. En toda frase hay: el aspecto **articulatorio bucal** (producción fisiológica del sonido) y el aspecto **acústico** (registro fisiológico del sonido); el **sonido** y la **idea relacionada** (relidad mental); un componente **individual** y uno **social**; etc.
 
-Para intentar la descripción del lenguaje habría que convocar a las demás ciencias conexas, lo cual es inaceptable ya que la razón de ser de la lingüística está supeditada a la delimitación de un componente escensial y autónomo.
+Para intentar la descripción del lenguaje habría que convocar a las demás ciencias conexas, lo cual es inaceptable ya que la razón de ser de la lingüística está supeditada a la delimitación de un componente esencial y autónomo.
+
+Saussure resulve esto señalando que puede separarse un principio de clasificación: la **lengua**, instrumento creado y provisto por la sociedad para qu las personas se comuniquen. 
