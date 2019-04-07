@@ -19,4 +19,4 @@ El objeto no puede ser el lenguaje. Existe una objeción epistemológica para el
 
 Para intentar la descripción del lenguaje habría que convocar a las demás ciencias conexas, lo cual es inaceptable ya que la razón de ser de la lingüística está supeditada a la delimitación de un componente esencial y autónomo.
 
-Saussure resulve esto señalando que puede separarse un principio de clasificación: la **lengua**, instrumento creado y provisto por la sociedad para qu las personas se comuniquen. 
+Saussure resulve esto señalando que puede separarse un principio de clasificación: "norma de todas las demás manifestaciones del lenguage", **la lengua**, instrumento creado y provisto por la sociedad para que las personas se comuniquen. 
