@@ -21,7 +21,7 @@ Para intentar la descripción del lenguaje habría que convocar a las demás cie
 
 ### La lengua
 
-Lo anterior, es resulto por Saussure señalando que puede separarse un principio de clasificación: la **lengua**, _instrumento creado y provisto por la sociedad para que las personas se comuniquen_.
+Lo anterior, es resuelto por Saussure señalando que puede separarse un principio de clasificación: la **lengua**, _instrumento creado y provisto por la sociedad para que las personas se comuniquen_.
 
 Para precisar la ubicación de la lengua dentro del lenguaje, Saussure plantea la primera tesis propia que consiste en distinguirla del habla para lo cual, plantea su definición a partir de **oposiciones binarias**.
 
