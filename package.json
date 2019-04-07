@@ -33,6 +33,7 @@
   },
   "devDependencies": {
     "gatsby-cli": "^2.5.5",
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^2.0.1",
+    "typeface-pacifico": "0.0.72"
   }
 }

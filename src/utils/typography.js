@@ -8,6 +8,7 @@ const typography = new Typography({
     'Helvetica',
     'Arial',
     'sans-serif',
+    'Pacifico',
   ],
   bodyFontFamily: ['Georgia', 'serif'],
 });
