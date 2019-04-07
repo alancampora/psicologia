@@ -1,22 +1,17 @@
 import React from 'react';
 import { graphql, Link } from 'gatsby';
-import Layout from '../components/layout';
-
-const postStyle = {
-	border: '1px solid black',
-	padding: '5px',
-	margin: '10px',
-};
+import Layout from '../components/layout/';
+import Card from '../components/card/';
 
 export default ({ data }) => (
-	<Layout title="Welcome to my blog">
+	<Layout title="Psicología under construction">
 		{data.allMarkdownRemark.edges.map(({ node }) => (
-			<div style={postStyle}>
-				<Link to={node.fields.slug}>
-					{`[${node.frontmatter.date}]: ${node.frontmatter.title}`}{' '}
-				</Link>
-				<p> {node.excerpt}</p>
-			</div>
+			<Card
+				slug={node.fields.slug}
+				date={node.frontmatter.date}
+				title={node.frontmatter.title}
+				excerpt={node.excerpt.replace(node.frontmatter.title, '')}
+			/>
 		))}
 	</Layout>
 );

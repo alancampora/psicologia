@@ -1,5 +1,5 @@
 ---
-title: "Semiologia - Saussure. La linguistica estructural"
+title: "Semiologia - Saussure. La lingüística estructural"
 date: "06-04-2019"
 ---
 
