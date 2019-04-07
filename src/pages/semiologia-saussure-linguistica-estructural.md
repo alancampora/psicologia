@@ -45,3 +45,4 @@ A partir de lo anterior, surge la primera oposición: la lengua es una instituci
 | ------- | --------- |
 | Esencial en la comunicación: la asociación ordenada entre las unidades significantes y significadas es insustituible | Accesoria, comprende aspectos facultativos que pueden ser reemplazados por otros)
 |Homogénea, completa en el dominio psíquico| Heterogénea, atraviesa los dominios psíquico, fisiológico y físico 
+|Puede describirse sistemáticamente|?|
