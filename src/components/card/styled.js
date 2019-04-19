@@ -1,7 +1,6 @@
 import styled from 'styled-components';
 
 export const StyledWrapper = styled.div`
-	margin: 0 auto;
 	box-shadow: rgba(136, 136, 136, 0.14) 10px 10px 20px;
 	width: 300px;
 	background-color: #ff5b5b;

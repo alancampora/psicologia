@@ -1,10 +1,10 @@
 import React from 'react';
-import { StyledWrapper, StyledTitle} from './styled';
+import { StyledWrapper, StyledTitle, StyledContent} from './styled';
 
 const Layout = ({ title, children }) => (
 	<StyledWrapper>
 		<StyledTitle> {title} </StyledTitle>
-		<div> {children} </div>
+		<StyledContent> {children} </StyledContent>
 	</StyledWrapper>
 );
 
