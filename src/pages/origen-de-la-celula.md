@@ -13,7 +13,7 @@ Los resultados de numerosos experimentos de laboratorio favorecen la hipotesis d
 
 ## Se forma la Tierra 
 Según teorias actuales, el universo se genero con una gran explosión o **"Big Bang"**. Toda la energia y la materia presentes en el Universo se encontraba en forma de energia pura, comprimidas en un único punto. Esta energía se libero y cada particula de materia formada posteriormente se alejó de manera violenta de toda otra particula. 
-La temperatura en el momento de la explosion, ocurrida hace aproximadamente 13.700 millones de altos, era cercana a los 100 mil millones de grados Celsius. A esta temperatura no podrían existir atomos, las particulas colisinarian y se aniquilarian unas a otras. 
+La temperatura en el momento de la explosion, ocurrida hace aproximadamente 13.700 millones de años, era cercana a los 100 mil millones de grados Celsius. A esta temperatura no podrían existir atomos, las particulas colisinarian y se aniquilarian unas a otras. 
 
 A medida que el Universo se expandía y se enfriaba, gradualmente se formaba mas materia a partir de energía. Alrededor de 100 segundos después de la explosion, la temperatura habria descendido a 1000 millones de grados Celsius. Dos tipos de particulas que hasta entonces eran escasas, habrian comenzado a combinarse. **Los protones y neutrones, formaron los nucleos de los atomos**.
 
@@ -80,3 +80,26 @@ El material genetico es una molecula grande y circular de DNA a la que estan deb
 ### Eucariontes ("buen nucleo")
 El DNA es lineal y esta fuertemente unido a proteinas. Esta rodeado por una doble membrana, la envoltura nuclear, que lo separa de otros contenidos celulares en un nucleo bien definido. 
 El **citoplasma** contiene una enorme variedad de moleculas y complejos moleculares especializados en distintas funciones celulares. En las celulas eucariontes, varias funciones se llevan a cabo por las **organelas** que constituyen distintos compartimentos del citoplasma.
+
+# Que es la vida ? 
+##Los seres vivos: una organizacion jerarquica
+Son sistemas integrados, cuyas propiedades distintivas exceden a las que resultan de considerar la suma de los atomos y moleculas individuales. 
+
+El **nivel de organizacion** mas simple de la materia es el **subatomico**. Se encuentran principalmente los protones, los neutrones y los electrones que constituyen los **atomos**. En el siguiente nivel los atomos individuales conforman **moleculas**. El nivel molecular contiene los niveles atomicos y subatomicos y moleculas mas complejas o **macromoleculas** formadas a partir de moleculas simples. 
+
+En un nuevo nivel de organizacion surge la propiedad mas notable de todas, la vida, en forma de organismos unicelulares o multicelulares. Todos los organismos vivos estan compuestos de una o mas **celulas**.
+
+Las celulas vivas especialzadas se organizan en **tejidos** como el epiterial, conectivo y nervioso, los que a su vez pueden constituir **organos** como el higado, el traco instestinal o el cerebro humano. Este a su vez, es parte de una entidad mayor, el **sistema** nervioso con nuevas propiedades que a su vez, dependen del cerebro.
+
+Los organismos interactuan y asi constituyen parte de un sistema mas vasto de organizacion, las **poblaciones**, que a su vez constituyen **comunidades** que forman un **ecosistema**.
+
+En el ultimo nivel, **la biosfera** comprende no solo gran deiversidad de plantas, animales y microorganismos y sus interacciones mutuas, sino tambien las caracteristicas fisicas del propio planeta Tierra. 
+
+##Los seres vivos: sistemas abiertos que almacenan y procesan informacion
+Otro rasgo fundamental es que intercambian materia y energia con el medio externo funcionando como un sistema abierto.
+
+Los organismos vivos son expertos en la conversion energetica. El conjunto de reacciones quimicas y de transformaciones de energia incluidas en la sintesis y degradacion de moleculas, constituyen en **metabolismo**. 
+
+Ademas, son capaces de mantener un medio interno estable dentro de ciertos limites a pesar de que intercambian materiales continuamente con el mundo externo. Su composicion quimica es muy diferente del ambiente que lo rodea. Esto es posible gracias a la **homeostasis**. En los sere vivos los cientos de miles de reacciones quimicas que se producen forman parte de un sistema coordinado en el tiempo y en el espacio, lo cual le permite al organismo mantener su identidad bioquimica y funcional pese a los cambios en el entornol. 
+
+Son tambien capaces de **reproducirse** y de transmitir su infomacion a su descendencia. La reproduccion y las transformaciones de un organismo pueden ser tan simples como las de una bacteria que se divide en dos o tan complejas como las que ocurren durante la fecundacion, el desarrollo y metamorfosis de un anfibio.
