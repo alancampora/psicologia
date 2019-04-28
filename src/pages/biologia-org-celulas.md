@@ -81,9 +81,33 @@ Compuesta por una red de *carbohidratos, fosfolípidos y proteínas estructurale
 ## Nucleo
 
 <div style="display:flex; align-items: center;">
-<img src="/images/pages/biologia/org-celular/concept-map-nucleo.png"
-     style="max-width: 50%; margin: 0 auto;" />
+<img src="/pages/biologia/org-celular/concept-map-nucleo.png"
+     style="max-width: 100%; margin: 0 auto;" />
 </div>
+
+### Envoltura celular
+
+<div style="display:flex; align-items: center;">
+<img src="/pages/biologia/org-celular/concept-map-envoltura-celular.png"
+     style="max-width: 100%; margin: 0 auto;" />
+</div>
+
+### DNA
+
+<div style="display:flex; align-items: center;">
+<img src="/pages/biologia/org-celular/concept-map-dna.png"
+     style="max-width: 100%; margin: 0 auto;" />
+</div>
+
+### Nucleolo
+
+<div style="display:flex; align-items: center;">
+<img src="/pages/biologia/org-celular/concept-map-nucleolo.png"
+     style="max-width: 100%; margin: 0 auto;" />
+</div>
+
+
+
 
 
 
