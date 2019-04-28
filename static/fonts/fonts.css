@@ -1,0 +1,13 @@
+@font-face {
+	font-family: 'SFCartoonistHand';
+	src: url('./SFCartoonistHand.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'SFArchRival';
+	src: url('./SFArchRival.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}

@@ -1,7 +1,7 @@
 module.exports = {
 	pathPrefix: '/psicologia',
 	plugins: [
-    `gatsby-plugin-sharp`,
+		`gatsby-plugin-sharp`,
 		{
 			resolve: `gatsby-transformer-remark`,
 			options: {
@@ -29,6 +29,15 @@ module.exports = {
 				pathToConfigModule: `src/utils/typography`,
 			},
 		},
-		`gatsby-plugin-styled-components`,
+		{
+			resolve: 'gatsby-plugin-web-font-loader',
+			options: {
+				custom: {
+					families: ['SFCartoonistHand', 'SFArchRival'],
+          urls: ['../fonts/fonts.css'],
+				},
+			},
+    },
+    `gatsby-plugin-styled-components`,
 	],
 };
