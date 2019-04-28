@@ -84,28 +84,28 @@ Orgánulo membranoso el cual se encuentra normalmente en el centro de las célul
 El conjunto de genes de esos cromosomas se denomina **genoma nuclear**. La función del núcleo es mantener la integridad de esos genes y controlar las actividades celulares regulando la expresión génica.
 
 <div style="display:flex; align-items: center;">
-<img src="/pages/biologia/org-celular/concept-map-nucleo.png"
+<img src="../pages/biologia/org-celular/concept-map-nucleo.png"
      style="max-width: 100%; margin: 0 auto;" />
 </div>
 
 ### Envoltura celular o Carioteca
 
 <div style="display:flex; align-items: center;">
-<img src="/pages/biologia/org-celular/concept-map-envoltura-celular.png"
+<img src="../pages/biologia/org-celular/concept-map-envoltura-celular.png"
      style="max-width: 100%; margin: 0 auto;" />
 </div>
 
 ### DNA
 
 <div style="display:flex; align-items: center;">
-<img src="/pages/biologia/org-celular/concept-map-dna.png"
+<img src="../pages/biologia/org-celular/concept-map-dna.png"
      style="max-width: 100%; margin: 0 auto;" />
 </div>
 
 ### Nucleolo
 
 <div style="display:flex; align-items: center;">
-<img src="/pages/biologia/org-celular/concept-map-nucleolo.png"
+<img src="../pages/biologia/org-celular/concept-map-nucleolo.png"
      style="max-width: 100%; margin: 0 auto;" />
 </div>
 
@@ -134,8 +134,7 @@ distribucion --> DENTRO[Dentro del citoplasma: celulas que fabrican proteinas ci
 distribucion --> MEMBRANAS[Componentes de membranas celulares: retículo endoplasmático rugoso]
 ```
 
-### Traducción
-En este proceso de traducción participa una molécula llamada ARN mensajero, el cual es una copia del ADN nuclear. 
+### Traducción En este proceso de traducción participa una molécula llamada ARN mensajero, el cual es una copia del ADN nuclear. 
 
 1 - Éste, sale del núcleo con la información que le provee el ADN para la fabricación de proteínas. Dicha información determina el orden en que se unirán los aminoácidos. 
 
