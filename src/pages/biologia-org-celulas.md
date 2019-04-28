@@ -60,7 +60,7 @@ Es el conjunto de materiales extracelulares que forman parte de un *tejido*.
 
 ---
 
-## Pared celular (vegetales)
+## Pared celular (celulas eucariontes y procariontes vegetales)
 Es una capa resistente, a veces rígida, porque soporta las fuerzas osmóticas y el crecimiento, que se localiza en el exterior de la membrana plasmática en las células de plantas, hongos, algas, bacterias y arqueas. 
 
 La pared celular protege el contenido de la célula, funciona como mediadora en todas las relaciones de la célula con el entorno y actúa como compartimiento celular. 
@@ -79,13 +79,16 @@ Compuesta por una red de *carbohidratos, fosfolípidos y proteínas estructurale
 
 --- 
 ## Nucleo
+Orgánulo membranoso el cual se encuentra normalmente en el centro de las células eucariotas. Contiene la mayor parte del material genético celular, organizado en varias moléculas extraordinariamente largas y lineales de ADN, con una gran variedad de proteínas, como las histonas, lo cual conforma lo que llamamos cromosomas. 
+
+El conjunto de genes de esos cromosomas se denomina **genoma nuclear**. La función del núcleo es mantener la integridad de esos genes y controlar las actividades celulares regulando la expresión génica.
 
 <div style="display:flex; align-items: center;">
 <img src="/pages/biologia/org-celular/concept-map-nucleo.png"
      style="max-width: 100%; margin: 0 auto;" />
 </div>
 
-### Envoltura celular
+### Envoltura celular o Carioteca
 
 <div style="display:flex; align-items: center;">
 <img src="/pages/biologia/org-celular/concept-map-envoltura-celular.png"
@@ -106,15 +109,12 @@ Compuesta por una red de *carbohidratos, fosfolípidos y proteínas estructurale
      style="max-width: 100%; margin: 0 auto;" />
 </div>
 
-
-
-
-
-
 ---
 
 ## Citoplasma
-Altamente organizado. Compuesto por diverso tipo de **Organelas**
+Parte del **Protoplasma** (interior de la celula) que se encuentra entre el núcleo celular y la membrana plasmática. Consiste en una **dispersión coloidal** muy fina de aspecto granuloso, el **citosol** o hialoplasma, y en una diversidad de **orgánulos celulares** que desempeñan diferentes funciones.
+
+---
 
 ## Ribosomas
 Estructuras en las que se sintetizan (crean) proteínas ensamblando uno a uno los aminoácidos que los componen (acoplamiento de aminoácidos). 
@@ -157,3 +157,18 @@ COMPOSICION[Composicion] --> PEQUENA[Subunidad pequeña: analiza el codigo del A
 COMPOSICION --> GRANDE[Subunidad grande: une y conecta cadenas de aminoacidos]
 ```
 
+---
+
+## Sistema de endomembranas
+Las celulas eucariontas poseen estructuras que se dividen en compartimentos especializados, los cuales, estan limitados por **membranas cerradas** que poseen una **permeabilidad selectiva**.
+
+Cada compartimento posee un grupo de **enzimas** que realizan funciones de cada **organela**, y a su vez estan interconectados funcionalmente. 
+
+```mermaid
+graph LR
+Composicion[Composicion] --> vv[Vacuolas y Vesicula]
+Composicion--> RE[Reticulo endoplasmatico]
+Composicion--> AG[Aparato de Golgi]
+```
+
+###Vacuolas y vesiculas - almacenamiento y transporte de materiales
