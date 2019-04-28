@@ -159,7 +159,13 @@ COMPOSICION --> GRANDE[Subunidad grande: une y conecta cadenas de aminoacidos]
 ---
 
 ## Sistema de endomembranas
-Las celulas eucariontas poseen estructuras que se dividen en compartimentos especializados, los cuales, estan limitados por **membranas cerradas** que poseen una **permeabilidad selectiva**.
+
+<div style="display:flex; align-items: center;">
+<img src="../pages/biologia/org-celular/sistema-endomembranas.png"
+     style="max-width: 100%; margin: 0 auto;" />
+</div>
+
+Las celulas eucariontas poseen estructuras que se dividen en compartimentos cada uno con funciones especificas. Estan limitados por **membranas cerradas** que poseen una **permeabilidad selectiva**.
 
 Cada compartimento posee un grupo de **enzimas** que realizan funciones de cada **organela**, y a su vez estan interconectados funcionalmente. 
 
@@ -171,3 +177,30 @@ Composicion--> AG[Aparato de Golgi]
 ```
 
 ###Vacuolas y vesiculas - almacenamiento y transporte de materiales
+Organelas con forma de bolsas formadas por membranas.
+
+```mermaid
+graph LR
+Funciones[Funciones] --> alm[Almacenamiento temporario de nutrientes o productos de desecho]
+Funciones --> trans[Transporte de materiales hacia el interior y exterior]
+Funciones[Funciones] --> des[Compartimento de degradación de sustancias]
+Funciones[Funciones] --> turg[Mantienen la turgencia celular]
+```
+En celulas vegetales, son llamadas **vacuolas**. Son de gran tamaño y están llenas de fluídos (entre un 30% - 90% del tamaño total). A medida que maduran, las numerosas vacuolas se fusionan en una vacuola grande. 
+
+### Reticulo endoplasmatico (celulas eurcariontes)
+Red de sacos aplanados, tubos y canales interconectados. 
+
+```mermaid
+graph LR
+cat[Categorias] --> RER[Reticulo Rugoso]
+cat --> REL[Reticulo Liso]
+RER -- tiene --> ribosoma1[Ribosomas]
+RER -- presente --> celEu[En todas las celulas eucariontas]
+RER -- continuo --> continuo[Continuo con membrana externa de la envoltura nuclear]
+RER -- predomina --> prredomina[Predomina en celulas que fabrican grandes cantidades de proteinas de exportacion]
+REL --no tiene --> ribosoma[Ribosomas]
+REL -- predomina --> predomina[Predomina en celulas especializadas en la sistesis de lipidos]
+REL -- predomina --> predomina2[Tambien se encuentra en celulas hepaticas, participa en la desintoxicacion]
+REL -- se produce --> seProduce[Degradacion , hidrolisis, de glucogeno]
+```
