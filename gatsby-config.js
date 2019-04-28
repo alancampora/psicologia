@@ -1,6 +1,21 @@
 module.exports = {
-  pathPrefix: "/psicologia",
+	pathPrefix: '/psicologia',
 	plugins: [
+    `gatsby-plugin-sharp`,
+		{
+			resolve: `gatsby-transformer-remark`,
+			options: {
+				plugins: [
+					{
+						resolve: `gatsby-remark-graph`,
+						options: { language: 'mermaid', theme: 'forrest' },
+					},
+					{
+						resolve: `gatsby-remark-images`,
+					},
+				],
+			},
+		},
 		{
 			resolve: `gatsby-source-filesystem`,
 			options: {
@@ -14,7 +29,6 @@ module.exports = {
 				pathToConfigModule: `src/utils/typography`,
 			},
 		},
-		`gatsby-transformer-remark`,
 		`gatsby-plugin-styled-components`,
 	],
 };
