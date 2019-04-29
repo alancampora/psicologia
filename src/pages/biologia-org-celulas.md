@@ -13,13 +13,20 @@ Es una estructura dinámica y fluída formada por *fosfolípidos y proteínas*.
 ### Bicapa Lipidica
 
 <div style="display:flex; align-items: center;">
-<img src="https://imgbbb.com/images/2019/04/27/biologia-org-celulas-1.png"
+<img src="../pages/biologia/org-celular/membrana-celular.png"
      alt="Markdown Monster icon"
-     style="max-width: 50%; margin: 0 auto;" />
+     style="max-width: 75%; margin: 0 auto;" />
 </div>
 
 ### Caracteristicas 
 Suele estar rodeada por un medio acuoso, por esto, las moleculas de *fosfolipidos* se disponen en una **bicapa lipidica**. 
+
+
+<div style="display:flex; align-items: center;">
+<img src="../pages/biologia/org-celular/bicapa-lipidica.png"
+     alt="Markdown Monster icon"
+     style="max-width: 75%; margin: 0 auto;" />
+</div>
 
 La estructura de la bicapa es fluida, es decir, los lipidos y proteinas unidos a *proteinas periféricas* o *proteinas integrales*, no estan "anclados" a ellas.
 
@@ -162,7 +169,7 @@ COMPOSICION --> GRANDE[Subunidad grande: une y conecta cadenas de aminoacidos]
 
 <div style="display:flex; align-items: center;">
 <img src="../pages/biologia/org-celular/sistema-endomembranas.png"
-     style="max-width: 100%; margin: 0 auto;" />
+     style="max-width: 75%; margin: 0 auto;" />
 </div>
 
 Las celulas eucariontas poseen estructuras que se dividen en compartimentos cada uno con funciones especificas. Estan limitados por **membranas cerradas** que poseen una **permeabilidad selectiva**.

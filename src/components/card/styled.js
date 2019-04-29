@@ -9,8 +9,10 @@ export const StyledWrapper = styled.div`
 `;
 
 export const StyledTitle = styled.h2`
+	font-family: 'SFArchRival', sans-serif;
 	text-align: center;
 	font-weight: 300;
+  margin: 0;
 	a {
 		text-decoration: none;
 		color: white;
@@ -18,10 +20,13 @@ export const StyledTitle = styled.h2`
 `;
 
 export const StyledDescription = styled.p`
+	font-family: 'SFCartoonistHand', sans-serif;
+  font-size: 1.5em;
 	padding: 1.1rem;
 `;
 
 export const StyledFooter = styled.div`
+	font-family: 'SFArchRival', sans-serif;
 	text-align: right;
 	a {
 		text-decoration: none;
