@@ -10,7 +10,6 @@ Es una estructura dinámica y fluída formada por *fosfolípidos y proteínas*.
 * Definir límites de la célula. 
 * Regula el transito de sustancias hacia dentro y fuera de la celula.
 
-### Bicapa Lipidica
 
 <div style="display:flex; align-items: center;">
 <img src="../pages/biologia/org-celular/membrana-celular.png"
@@ -18,6 +17,7 @@ Es una estructura dinámica y fluída formada por *fosfolípidos y proteínas*.
      style="max-width: 75%; margin: 0 auto;" />
 </div>
 
+### Bicapa Lipidica
 ### Caracteristicas 
 Suele estar rodeada por un medio acuoso, por esto, las moleculas de *fosfolipidos* se disponen en una **bicapa lipidica**. 
 
