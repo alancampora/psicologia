@@ -6,6 +6,7 @@ export const StyledWrapper = styled.div`
 	background-color: #ff5b5b;
 	padding: 1rem;
 	border-radius: 20px;
+  margin: 1rem;
 `;
 
 export const StyledTitle = styled.h2`

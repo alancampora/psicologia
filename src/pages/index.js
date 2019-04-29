@@ -4,7 +4,7 @@ import Layout from '../components/layout/';
 import Card from '../components/card/';
 
 export default ({ data }) => (
-	<Layout title="Compartiendo conocimiento">
+	<Layout title="Apuntes libres">
 		{data.allMarkdownRemark.edges.map(({ node }) => (
 			<Card
 				slug={node.fields.slug}

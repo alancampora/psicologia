@@ -10,10 +10,10 @@ export const StyledTitle = styled.h1`
 `;
 
 export const StyledContent = styled.div`
-	display: grid;
-	grid-column-gap: 1rem;
-	grid-row-gap: 1rem;
 	background-color: white;
 	text-align: center;
-	justify-items: center;
+	display: flex;
+	justify-content: center;
+	margin: 1rem;
+	flex-wrap: wrap;
 `;
