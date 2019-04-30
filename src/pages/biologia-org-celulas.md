@@ -263,9 +263,14 @@ Un ejemplo de su funcion se ve en los globulos blancos que capturan bacterias de
  ### Mitocondrias: transformacion de energia
  Organelas en las que se degradan moleculas organicas y se libera energia quimica contenida en sus enlaces mediante un proce que consume oxigeno: la respiracion celular. La energia liberada se almacena en moleculas de ATP y luego se utiliza en otros procesos. 
 
- ### Los plastidos: produccion y almacenamiento de carbono
+ ### Los plastidos: produccion y almacenamiento de hidratos de carbono
 Solo se encuentran en eucariontas vegetales. Organelas rodeadas por dos membranas y tienen un sistema de membranas internas que pueden estar intrincadamente plegadas.
 
 **Tipos**: 
 * **leucoplastos**: pueden almacenar almidon, proteinas o aceites. Son numerosos en organos de almacenamiento como en raices o tuberculos (como la papa)
-* **cromoplastos**: contienen pigmentos del tipo de los **carotenoides** (rojo y amarillo en frutas) y **cloroplastos**: 
+* **cromoplastos**: contienen pigmentos del tipo de los **carotenoides** (rojo y amarillo en frutas) y **cloroplastos**. Estos contienen **clorofila** y en ellos se producen hidratos de carbono a partir de compuestos sencillos, gracias a la **fotosintesis**. 
+
+### El citoesquelto: cistema de andamiaje interno. 
+Estructura que mantiene la organizacion de la celula y sus organelas y ademas le permite moverse. Tambien participa en las modificaciones de su morfologia y dirige el transito intracelular. 
+
+#### Microtubulos
