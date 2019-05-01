@@ -273,4 +273,27 @@ Solo se encuentran en eucariontas vegetales. Organelas rodeadas por dos membrana
 ### El citoesquelto: cistema de andamiaje interno. 
 Estructura que mantiene la organizacion de la celula y sus organelas y ademas le permite moverse. Tambien participa en las modificaciones de su morfologia y dirige el transito intracelular. 
 
-#### Microtubulos
+**Microtubulos**: 
+Largos tubos huecos formados por dímeros de dos proteínas globulares llamadas **tubulinas alia y beta**. Crecen principalmente en uno de sus extremos llamados extremo de crecimiento rapido (implica un gasto de energia). Son importantes en el transporte y el movimiento de vesiculas y organelas dentro del citoplasma.
+
+Actuan asociados a ciertas proteinas: 
+* Algunas le confieren estabilidad al polimero
+* Otras son proteinas motoras que dirigen el movimiento de las organelas
+
+Tambien participan en la division celular, por ejemplo, en los movimientos de cromosomas que tienen lugar durante dicho proceso. 
+
+Son los componentes principales de **cilios** y **flagelos**. Son estructuras largas y delgadas. Los cilios son cortos y numerosos, mientras que los flagelos son mas largos y escasos. Las celulas procariontas tambien poseen flagelos.
+
+**filamentos intermedios**:
+Abundantes en celulas sometidas a tensiones mecanicas como las celulas apiteliales, nerviosas y musculares. 
+Estan compuestos por proteinas fibrosas resistentes y duraderas, que no se desintegran facilmente una vez que han sido formados, aunque tambien son dinamicos, es decir, continuamente intercambian unidades proteicas.
+No tiene polaridad como los microtubulos y las unidades que los forman son **tetrametros**.
+
+Conforman un armazon denso debajo de la envoltura del nucleo, la **lamina nuclear**, que se interrumpe en los poros nucleares y actua como soporte de la membrana nuclear interna.
+
+**filamentos de actina o microfilamentos**: 
+Constituidos por varias moleculas de una proteina globular llamada **actina g**. Cuando dichas moleculas se ensamblan, forman una estructura helicoidal doble que se conoce como **actina f**. 
+Los filamentos se asocian formando haces o fibras de tension que cruzan el citoplasma como cables que se enredan entre si formando redes. 
+Pueden formarse y desintegrarse facilmente. 
+Ciertos movimientos de las celulas son impulados por la polimerizacion de la actina que, de esta manera, forma "falsos pies". 
+Tambien actuan con la **miosina** en las celulas animales en la division celular, estrangulando al citoplasma y separando a las dos celular, 
